@@ -1,10 +1,10 @@
-Berikut adalah README dalam bahasa Indonesia dengan tambahan ikon untuk membuatnya lebih menarik:
-
 ---
 
 # Implementasi Clustering dengan Algoritma K-Means Menggunakan PySpark untuk Analisis Data Meteran Listrik Rumah Tangga
 
 Proyek ini mengimplementasikan teknik clustering menggunakan algoritma K-Means di PySpark untuk menganalisis data konsumsi listrik rumah tangga. Dataset yang digunakan dalam analisis ini diperoleh dari sebuah rumah di Sceaux, Paris, Prancis, dan mencakup data dari Desember 2006 hingga November 2010. Tujuan penelitian ini adalah untuk mengidentifikasi pola penggunaan listrik rumah tangga, yang dapat digunakan untuk merancang strategi penghematan energi dan mendukung upaya konservasi energi serta pengurangan emisi karbon.
+
+---
 
 ## 📋 Fitur
 
@@ -42,3 +42,4 @@ Algoritma K-Means berhasil mengelompokkan data konsumsi listrik rumah tangga men
 - **Cluster 2**: Konsumsi energi tinggi dan tidak konsisten, terutama untuk perangkat pemanas dan pendingin udara.
 - **Cluster 3**: Konsumsi energi tinggi namun stabil di semua area.
 
+---
